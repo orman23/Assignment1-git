@@ -1,0 +1,1 @@
+ln_print("hello");
